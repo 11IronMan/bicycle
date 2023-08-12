@@ -1,0 +1,293 @@
+.product {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0%;
+    z-index: 100;
+    background: linear-gradient(360deg, #211F2080 0%, #44403F10 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .containers {
+        display: flex;
+        justify-content: space-between;
+        max-width: 1040px;
+        width: 80%;
+        padding: 40px;
+        border-radius: 15px;
+        background: #FFF;
+        position: relative;
+
+        .span_x {
+            position: absolute;
+            top: 0%;
+            right: -40px;
+        }
+
+        .product_images {
+            width: 50%;
+
+            .product_images_up {
+                .img1 {
+                    width: 100%;
+                }
+            }
+
+            .product_images_botton {
+                margin-top: 25px;
+                display: flex;
+                column-gap: 10px;
+
+                .imgs {
+                    width: 22%;
+                }
+            }
+        }
+
+        .product_information {
+            width: 46%;
+
+            .product_information_h1 {
+                color: #14233D;
+                font-family: Montserrat;
+                font-size: 28px;
+                font-style: normal;
+                font-weight: 600;
+                line-height: 110%;
+                /* 30.8px */
+                margin-bottom: 20px;
+                
+            }
+
+            .inf {
+                display: flex;
+                align-items: center;
+
+                .inf_l {
+                    width: 50%;
+                    color: #ABB1C5;
+                    font-feature-settings: 'clig' off, 'liga' off;
+                    font-family: Montserrat;
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 22px;
+                    /* 137.5% */
+                }
+
+                .inf_r {
+                    width: 50%;
+                    color: #14233D;
+                    font-feature-settings: 'clig' off, 'liga' off;
+                    font-family: Montserrat;
+                    font-size: 18px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 140%;
+                    /* 25.2px */
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:800px) {
+    .product {
+        width: 100vw;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        left: 0%;
+        z-index: 100;
+        background: linear-gradient(360deg, #211F2080 0%, #44403F10 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        .containers {
+            display: block;
+            max-width: 1040px;
+            width: 80%;
+            // height: 95%;
+            padding: 40px;
+            border-radius: 15px;
+            background: #FFF;
+            position: relative;
+    
+            .span_x {
+                position: absolute;
+                top: 0%;
+                right: -40px;
+            }
+    
+            .product_images {
+                width: 100%;
+                .product_images_up {
+                    .img1 {
+                        width: 100%;
+                    }
+                }
+    
+                .product_images_botton {
+                    margin-top: 25px;
+                    display: flex;
+                    column-gap: 10px;
+    
+                    .imgs {
+                        width: 22%;
+                    }
+                }
+            }
+    
+            .product_information {  
+                width: 100%;
+                margin-top: 40px;
+                
+                .product_information_h1 {
+                    color: #14233D;
+                    font-family: Montserrat;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: 110%;
+                    /* 30.8px */
+                    margin-bottom: 10px;
+                    
+                }
+    
+                .inf {
+                    display: flex;
+                    align-items: center;
+    
+                    .inf_l {
+                        width: 50%;
+                        color: #ABB1C5;
+                        font-feature-settings: 'clig' off, 'liga' off;
+                        font-family: Montserrat;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 14px;
+                        /* 137.5% */
+                    }
+    
+                    .inf_r {
+                        width: 50%;
+                        color: #14233D;
+                        font-feature-settings: 'clig' off, 'liga' off;
+                        font-family: Montserrat;
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 10px;
+                        /* 25.2px */
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:400px) {
+    .product {
+        width: 100vw;
+        height: 100vh;
+        position: fixed;
+        top: 0;
+        left: 0%;
+        z-index: 100;
+        background: linear-gradient(360deg, #211F2080 0%, #44403F10 100%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+        .containers {
+            display: block;
+            max-width: 1040px;
+            width: 85%;
+            // height: 95%;
+            padding: 20px;
+            border-radius: 15px;
+            background: #FFF;
+            position: relative;
+    
+            .span_x {
+                position: absolute;
+                top: 0%;
+                right: -20px;
+            }
+    
+            .product_images {
+                width: 100%;
+                display: flex;
+                justify-content: space-between;
+                align-items: flex-start;
+                .product_images_up {
+                    width: 80%;
+                    .img1 {
+                        width: 100%;
+                    }
+                }
+    
+                .product_images_botton {
+                    margin-top: 0px;
+                    display: block;
+                    width: 18%;
+    
+                    .imgs {
+                        width: 100%;
+                        margin: 2px 0px;
+                    }
+                }
+            }
+    
+            .product_information {  
+                width: 100%;
+                margin-top: 20px;
+                
+                .product_information_h1 {
+                    color: #14233D;
+                    font-family: Montserrat;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: 110%;
+                    /* 30.8px */
+                    margin-bottom: 10px;
+                    
+                }
+    
+                .inf {
+                    display: block;
+                    margin: 10px 0px;
+    
+                    .inf_l {
+                        width: 100%;
+                        color: #ABB1C5;
+                        font-feature-settings: 'clig' off, 'liga' off;
+                        font-family: Montserrat;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 8px;
+                        /* 137.5% */
+                    }
+    
+                    .inf_r {
+                        width: 100%;
+                        color: #14233D;
+                        font-feature-settings: 'clig' off, 'liga' off;
+                        font-family: Montserrat;
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 500;
+                        line-height: 5px;
+                        /* 25.2px */
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,1950 @@
+.arentwo {
+    width: 100%;
+
+    .container {
+        max-width: 1240px;
+        margin: auto;
+        width: 90%;
+
+        .arendtwo_main {
+            width: 100%;
+
+            .arendtwo_main_up {
+                width: 100%;
+                margin: 50px 0px 0px 0px;
+                padding: 50px 3% 40px 3%;
+                background: #F2F4F7;
+                border-radius: 30px;
+
+                .arendtwo_main_up_h1 {
+                    text-align: center;
+                    color: #14233D;
+                    font-family: Montserrat;
+                    font-size: 48px;
+                    font-style: normal;
+                    font-weight: 600;
+                    line-height: 120%;
+                    /* 57.6px */
+                }
+
+                .arendtwo_main_up_data {
+                    margin-top: 25px;
+                    width: 80%;
+                    display: flex;
+                    justify-content: space-between;
+                }
+
+                .arendtwo_main_up_second {
+                    margin-top: 20px;
+                    width: 100%;
+                    display: flex;
+                    justify-content: end;
+
+                    .arendtwo_main_up_second_inf {
+                        width: 90%;
+                        display: flex;
+                        justify-content: space-between;
+
+                        .arendtwo_main_up_second_inf_name {
+                            width: 50%;
+
+                            .arendtwo_main_up_second_inf_name_p {
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+                            }
+                        }
+
+                        .arendtwo_main_up_second_inf_ost {
+                            display: flex;
+                            justify-content: space-between;
+                            width: 50%;
+
+                            .arendtwo_main_up_second_inf_ost_left {
+                                display: flex;
+                                justify-content: space-between;
+                                width: 60%;
+
+                                .arendtwo_main_up_second_inf_ost_left_p {
+                                    color: #ABB1C5;
+                                    text-align: center;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+                            }
+
+                            .arendtwo_main_up_second_inf_ost_right {
+                                width: 30%;
+
+                                .arendtwo_main_up_second_inf_ost_right_p {
+                                    color: #ABB1C5;
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .arendtwo_main_up_second_products {
+                    width: 100%;
+
+                    .arendtwo_main_up_second_product {
+                        display: flex;
+                        align-items: baseline;
+                        width: 100%;
+
+                        .arendtwo_main_up_second_product_img {
+                            padding: 0%;
+                            width: 10%;
+
+                            img {
+                                width: 100%;
+                                padding: 0%;
+                                margin-bottom: 25px;
+                            }
+                        }
+
+                        .arendtwo_main_up_second_product_ninty {
+                            display: flex;
+                            justify-content: space-between;
+                            // align-items: center;
+                            width: 90%;
+
+                            .arendtwo_main_up_second_product_ninty_first {
+                                width: 50%;
+
+                                .arendtwo_main_up_second_product_ninty_first_p {
+                                    width: 80%;
+                                    color: #14233D;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+                            }
+
+                            .arendtwo_main_up_second_product_ninty_first_trio {
+                                display: flex;
+                                justify-content: space-between;
+                                width: 30%;
+                            }
+
+                            .arendtwo_main_up_second_product_ninty_last {
+                                width: 20%;
+                                color: var(--297-fff, #297FFF);
+                                text-align: right;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 18px;
+                                font-style: normal;
+                                font-weight: 700;
+                                line-height: 22px;
+
+                                /* 122.222% */
+                                .arendtwo_main_up_second_inf_ost_right_ps {
+                                    display: none;
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .arendtwo_main_up_close {
+                    margin-top: 20px;
+                    width: 100%;
+                    display: flex;
+                    justify-content: space-between;
+                    // align-items: center;
+
+                    .arendtwo_main_up_close_left {
+                        width: 80%;
+
+                        .arendtwo_main_up_close_left_rel {
+                            position: relative;
+
+                            .arendtwo_main_up_close_left_rel_span1 {
+                                position: absolute;
+                                top: 10px;
+                                left: 20px;
+                            }
+
+                            .arendtwo_main_up_close_left_rel_span2 {
+                                display: none;
+                            }
+
+                            .arendtwo_main_up_close_left_rel_p {
+                                position: absolute;
+                                top: 20px;
+                                left: 90px;
+                                color: var(--297-fff, #297FFF);
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 110%;
+                                text-decoration: none;
+                                /* 17.6px */
+                            }
+                        }
+                    }
+
+                    .arendtwo_main_up_close_right {
+                        width: 20%;
+
+                        .arendtwo_main_up_close_right_up {
+                            display: flex;
+                            justify-content: space-between;
+
+                            .arendtwo_main_up_close_right_up_left {
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+                            }
+
+                            .arendtwo_main_up_close_right_up_right {
+                                color: #14233D;
+                                text-align: right;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 20px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 110% */
+                            }
+                        }
+
+                        .arendtwo_main_up_close_right_botton {
+                            display: flex;
+                            justify-content: space-between;
+
+                            .arendtwo_main_up_close_right_botton_left {
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+                            }
+
+                            .arendtwo_main_up_close_right_botton_right {
+                                color: var(--297-fff, #297FFF);
+                                text-align: right;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 20px;
+                                font-style: normal;
+                                font-weight: 700;
+                                line-height: 22px;
+                                /* 110% */
+                            }
+                        }
+                    }
+                }
+            }
+
+            .center {
+                margin-left: 3%;
+            }
+
+            .arendtwo_main_botton {
+                width: 100%;
+                margin: 0px 0px 50px 0px;
+                padding: 50px 3% 40px 3%;
+                background: #F2F4F7;
+                border-radius: 30px;
+
+                .arendtwo_main_botton1 {
+                    display: flex;
+
+                    .arendtwo_main_botton_left {
+                        width: 50%;
+
+                        .form2 {
+                            width: 100%;
+                            display: block;
+
+                            label {
+                                width: 100%;
+                                margin: 0px 0px;
+                                line-height: 50px;
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+
+                                .div {
+                                    margin: 0px 0px;
+                                    width: 90%;
+                                    border-radius: 15px;
+                                    border: 1px solid #DDE3EB;
+                                    background: #FFF;
+
+                                    input {
+                                        background-color: #FFF;
+                                        border-radius: 15px 5px 5px 15px;
+                                        padding: 15px 15px;
+                                        border: none;
+                                        width: 94%;
+                                        outline: 0;
+                                        color: #737B98;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 122.222% */
+                                    }
+                                }
+                            }
+
+                            .online_offline_p {
+                                margin-top: 10px;
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+                            }
+
+                            .online_offline {
+                                width: 90%;
+                                display: flex;
+                                justify-content: space-between;
+
+                                .online,
+                                .offline {
+                                    position: relative;
+                                    display: flex;
+                                    align-items: center;
+                                    column-gap: 7px;
+                                    width: 47%;
+                                    border-radius: 15px;
+                                    background: #FFF;
+                                    padding: 10px 15px;
+                                    color: #737B98;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 18px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+
+                                    /* 122.222% */
+                                    &_span1 {
+                                        margin-right: 10px;
+                                        position: absolute;
+                                        right: 0%;
+                                        // margin: auto;
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .arendtwo_main_botton_right {
+                        width: 50%;
+
+                        .form2 {
+                            width: 100%;
+                            display: block;
+
+                            label {
+                                width: 100%;
+                                margin: 0px 0px;
+                                line-height: 50px;
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+
+                                .div {
+                                    margin: 0px 0px;
+                                    width: 90%;
+                                    border-radius: 15px;
+                                    border: 1px solid #DDE3EB;
+                                    background: #FFF;
+
+                                    input {
+                                        background-color: #FFF;
+                                        border-radius: 15px 5px 5px 15px;
+                                        padding: 15px 15px;
+                                        border: none;
+                                        width: 94%;
+                                        outline: 0;
+                                        color: #737B98;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 122.222% */
+                                    }
+                                }
+                            }
+
+                            .online_offline_p {
+                                margin-top: 0px;
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+                            }
+
+                            .online_offline {
+                                width: 90%;
+                                display: flex;
+                                justify-content: space-between;
+                                margin-bottom: 17px;
+
+                                .online,
+                                .offline {
+                                    width: 47%;
+                                    border-radius: 15px;
+                                    background: #FFF;
+                                    padding: 15px 15px;
+                                    color: #14233D;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 18px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 122.222% */
+
+                                }
+                            }
+                        }
+
+                        .arendtwo_main_botton_right_info {
+                            padding: 15px 42px 0px 15px;
+                            border-radius: 15px;
+                            border: 1px solid #DDE3EB;
+
+                            .arendtwo_main_botton_right_info_p {
+                                color: #ABB1C5;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 22px;
+                                /* 137.5% */
+                            }
+
+                            .arendtwo_main_botton_right_info_p1 {
+                                color: #14233D;
+                                font-feature-settings: 'clig' off, 'liga' off;
+                                font-family: Montserrat;
+                                font-size: 16px;
+                                font-style: normal;
+                                font-weight: 500;
+                                line-height: 140%;
+                                /* 22.4px */
+                            }
+                        }
+                    }
+                }
+
+                .bron1 {
+                    text-align: center;
+
+                    .bron {
+                        margin-left: auto;
+                        margin-top: 30px;
+                        color: #FFF;
+                        text-align: center;
+                        font-feature-settings: 'clig' off, 'liga' off;
+                        font-family: Montserrat;
+                        font-size: 20px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 22px;
+                        /* 110% */
+                        border-radius: 10px;
+                        background: var(--297-fff, #297FFF);
+                        padding: 10px 20px;
+                        border: none;
+
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:820px) {
+    .arentwo {
+        width: 100%;
+
+        .container {
+            max-width: 1240px;
+            margin: auto;
+            width: 90%;
+
+            .arendtwo_main {
+                .arendtwo_main_up {
+                    margin: 50px 0px 0px 0px;
+                    padding: 50px 3% 40px 3%;
+                    background: #F2F4F7;
+                    border-radius: 30px;
+
+                    .arendtwo_main_up_h1 {
+                        text-align: center;
+                        color: #14233D;
+                        font-family: Montserrat;
+                        font-size: 48px;
+                        font-style: normal;
+                        font-weight: 600;
+                        line-height: 120%;
+                        /* 57.6px */
+                    }
+
+                    .arendtwo_main_up_data {
+                        margin-top: 25px;
+                        width: 100%;
+                        display: flex;
+                        justify-content: space-between;
+                    }
+
+                    .arendtwo_main_up_close {
+                        margin-top: 20px;
+                        width: 100%;
+                        display: flex;
+                        // justify-content: space-between;
+                        // align-items: center;
+
+                        .arendtwo_main_up_close_left {
+                            width: 60%;
+
+                            .arendtwo_main_up_close_left_rel {
+                                position: relative;
+
+                                .arendtwo_main_up_close_left_rel_span1 {
+                                    position: absolute;
+                                    top: 10px;
+                                    left: 20px;
+                                }
+
+                                .arendtwo_main_up_close_left_rel_span2 {
+                                    display: none;
+                                }
+
+                                .arendtwo_main_up_close_left_rel_p {
+                                    position: absolute;
+                                    top: 20px;
+                                    left: 90px;
+                                    color: var(--297-fff, #297FFF);
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 110%;
+                                    text-decoration: none;
+                                    /* 17.6px */
+                                }
+                            }
+                        }
+
+                        .arendtwo_main_up_close_right {
+                            width: 40%;
+
+                            .arendtwo_main_up_close_right_up {
+                                display: flex;
+                                justify-content: space-between;
+
+                                .arendtwo_main_up_close_right_up_left {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_up_close_right_up_right {
+                                    color: #14233D;
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 20px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 110% */
+                                }
+                            }
+
+                            .arendtwo_main_up_close_right_botton {
+                                display: flex;
+                                justify-content: space-between;
+
+                                .arendtwo_main_up_close_right_botton_left {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_up_close_right_botton_right {
+                                    color: var(--297-fff, #297FFF);
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 20px;
+                                    font-style: normal;
+                                    font-weight: 700;
+                                    line-height: 22px;
+                                    /* 110% */
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .center {
+                    margin-left: 3%;
+                }
+
+                .arendtwo_main_botton {
+                    width: 100%;
+                    margin: 0px 0px 50px 0px;
+                    padding: 50px 3% 40px 3%;
+                    background: #F2F4F7;
+                    border-radius: 30px;
+
+                    .arendtwo_main_botton1 {
+                        display: flex;
+
+                        .arendtwo_main_botton_left {
+                            width: 50%;
+
+                            .form2 {
+                                width: 100%;
+                                display: block;
+
+                                label {
+                                    width: 100%;
+                                    margin: 0px 0px;
+                                    line-height: 50px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+
+                                    .div {
+                                        margin: 0px 0px;
+                                        width: 90%;
+                                        border-radius: 15px;
+                                        border: 1px solid #DDE3EB;
+                                        background: #FFF;
+
+                                        input {
+                                            background-color: #FFF;
+                                            border-radius: 15px 5px 5px 15px;
+                                            padding: 15px 15px;
+                                            border: none;
+                                            width: 94%;
+                                            outline: 0;
+                                            color: #737B98;
+                                            font-size: 18px;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            line-height: 22px;
+                                            /* 122.222% */
+                                        }
+                                    }
+                                }
+
+                                .online_offline_p {
+                                    margin-top: 10px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .online_offline {
+                                    width: 90%;
+                                    display: block;
+                                    justify-content: space-between;
+
+                                    .online,
+                                    .offline {
+                                        margin-bottom: 15px;
+                                        position: relative;
+                                        display: flex;
+                                        align-items: center;
+                                        column-gap: 7px;
+                                        width: 100%;
+                                        border-radius: 15px;
+                                        background: #FFF;
+                                        padding: 10px 15px;
+                                        color: #737B98;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+
+                                        /* 122.222% */
+                                        &_span1 {
+                                            margin-right: 10px;
+                                            position: absolute;
+                                            right: 0%;
+                                            // margin: auto;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+
+                        .arendtwo_main_botton_right {
+                            width: 50%;
+
+                            .form2 {
+                                width: 100%;
+                                display: block;
+
+                                label {
+                                    width: 100%;
+                                    margin: 0px 0px;
+                                    line-height: 50px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+
+                                    .div {
+                                        margin: 0px 0px;
+                                        width: 90%;
+                                        border-radius: 15px;
+                                        border: 1px solid #DDE3EB;
+                                        background: #FFF;
+
+                                        input {
+                                            background-color: #FFF;
+                                            border-radius: 15px 5px 5px 15px;
+                                            padding: 15px 15px;
+                                            border: none;
+                                            width: 94%;
+                                            outline: 0;
+                                            color: #737B98;
+                                            font-size: 18px;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            line-height: 22px;
+                                            /* 122.222% */
+                                        }
+                                    }
+                                }
+
+                                .online_offline_p {
+                                    margin-top: 0px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .online_offline {
+                                    width: 90%;
+                                    display: flex;
+                                    justify-content: space-between;
+                                    margin-bottom: 17px;
+
+                                    .online,
+                                    .offline {
+                                        width: 47%;
+                                        border-radius: 15px;
+                                        background: #FFF;
+                                        padding: 15px 15px;
+                                        color: #14233D;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 122.222% */
+
+                                    }
+                                }
+                            }
+
+                            .arendtwo_main_botton_right_info {
+                                padding: 15px 42px 0px 15px;
+                                border-radius: 15px;
+                                border: 1px solid #DDE3EB;
+
+                                .arendtwo_main_botton_right_info_p {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_botton_right_info_p1 {
+                                    color: #14233D;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 140%;
+                                    /* 22.4px */
+                                }
+                            }
+                        }
+                    }
+
+                    .bron1 {
+                        text-align: center;
+
+                        .bron {
+                            margin-left: auto;
+                            margin-top: 30px;
+                            color: #FFF;
+                            text-align: center;
+                            font-feature-settings: 'clig' off, 'liga' off;
+                            font-family: Montserrat;
+                            font-size: 20px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: 22px;
+                            /* 110% */
+                            border-radius: 10px;
+                            background: var(--297-fff, #297FFF);
+                            padding: 10px 20px;
+                            border: none;
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:652px) {
+    .arentwo {
+        width: 100%;
+
+        .container {
+            max-width: 1240px;
+            margin: auto;
+            width: 90%;
+
+            .arendtwo_main {
+                .arendtwo_main_up {
+                    margin: 50px 0px 0px 0px;
+                    padding: 50px 3% 80px 3%;
+                    background: #F2F4F7;
+                    border-radius: 30px;
+
+                    .arendtwo_main_up_h1 {
+                        text-align: center;
+                        color: #14233D;
+                        text-align: center;
+                        font-family: Montserrat;
+                        font-size: 36px;
+                        font-style: normal;
+                        font-weight: 600;
+                        line-height: 120%;
+                        /* 43.2px */
+                    }
+
+                    .arendtwo_main_up_data {
+                        margin-top: 25px;
+                        width: 100%;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+
+                        .arendtwo_main_up_data_type {
+                            width: 50%;
+                        }
+                    }
+
+                    .arendtwo_main_up_second {
+                        margin-top: 20px;
+                        width: 100%;
+                        display: flex;
+                        justify-content: end;
+
+                        .arendtwo_main_up_second_inf {
+                            width: 90%;
+                            display: flex;
+                            justify-content: space-between;
+
+                            .arendtwo_main_up_second_inf_name {
+                                width: 80%;
+
+                                .arendtwo_main_up_second_inf_name_p {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+                            }
+
+                            .arendtwo_main_up_second_inf_ost {
+                                display: flex;
+                                justify-content: space-between;
+                                width: 20%;
+
+                                .arendtwo_main_up_second_inf_ost_left {
+                                    display: none;
+                                    justify-content: space-between;
+                                    width: 60%;
+
+                                    .arendtwo_main_up_second_inf_ost_left_p {
+                                        color: #ABB1C5;
+                                        text-align: center;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 16px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 137.5% */
+                                    }
+                                }
+
+                                .arendtwo_main_up_second_inf_ost_right {
+                                    width: 20%;
+
+                                    .arendtwo_main_up_second_inf_ost_right_p {
+                                        color: #ABB1C5;
+                                        text-align: right;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 16px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 137.5% */
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .arendtwo_main_up_second_products {
+                        width: 100%;
+
+                        .arendtwo_main_up_second_product {
+                            display: flex;
+                            align-items: center;
+                            width: 100%;
+
+                            .arendtwo_main_up_second_product_img {
+                                width: 10%;
+                            }
+
+                            .arendtwo_main_up_second_product_ninty {
+                                display: flex;
+                                justify-content: space-between;
+                                // align-items: center;
+                                width: 90%;
+
+                                .arendtwo_main_up_second_product_ninty_first {
+                                    width: 80%;
+
+                                    .arendtwo_main_up_second_product_ninty_first_p {
+                                        width: 100%;
+                                        color: #14233D;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 16px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 137.5% */
+                                    }
+                                }
+
+                                .arendtwo_main_up_second_product_ninty_first_trio {
+                                    display: none;
+
+                                }
+
+                                .arendtwo_main_up_second_product_ninty_last {
+                                    width: 20%;
+                                    color: var(--297-fff, #297FFF);
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 18px;
+                                    font-style: normal;
+                                    font-weight: 700;
+                                    line-height: 22px;
+
+                                    /* 122.222% */
+                                    .arendtwo_main_up_second_inf_ost_right_ps {
+                                        display: none;
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .arendtwo_main_up_close {
+                        margin-top: 20px;
+                        width: 100%;
+                        display: block;
+                        justify-content: space-between;
+                        // align-items: center;
+
+                        .arendtwo_main_up_close_left {
+                            width: 50%;
+
+                            .arendtwo_main_up_close_left_rel {
+                                position: relative;
+
+                                .arendtwo_main_up_close_left_rel_span1 {
+                                    position: absolute;
+                                    top: 80px;
+                                    left: 20px;
+                                }
+
+                                .arendtwo_main_up_close_left_rel_span2 {
+                                    display: none;
+                                }
+
+                                .arendtwo_main_up_close_left_rel_p {
+                                    position: absolute;
+                                    top: 80px;
+                                    left: 90px;
+                                    color: var(--297-fff, #297FFF);
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 110%;
+                                    text-decoration: none;
+                                    /* 17.6px */
+                                }
+                            }
+                        }
+
+                        .arendtwo_main_up_close_right {
+                            margin-left: 50%;
+                            width: 50%;
+
+                            .arendtwo_main_up_close_right_up {
+                                display: flex;
+                                justify-content: space-between;
+
+                                .arendtwo_main_up_close_right_up_left {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_up_close_right_up_right {
+                                    color: #14233D;
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 20px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 110% */
+                                }
+                            }
+
+                            .arendtwo_main_up_close_right_botton {
+                                display: flex;
+                                justify-content: space-between;
+
+                                .arendtwo_main_up_close_right_botton_left {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_up_close_right_botton_right {
+                                    color: var(--297-fff, #297FFF);
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 20px;
+                                    font-style: normal;
+                                    font-weight: 700;
+                                    line-height: 22px;
+                                    /* 110% */
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .center {
+                    margin-left: 6%;
+                }
+
+                .arendtwo_main_botton {
+                    width: 100%;
+                    margin: 0px 0px 50px 0px;
+                    padding: 50px 3% 40px 3%;
+                    background: #F2F4F7;
+                    border-radius: 30px;
+
+                    .arendtwo_main_botton1 {
+                        display: block;
+
+                        .arendtwo_main_botton_left {
+                            width: 100%;
+
+                            .form2 {
+                                width: 100%;
+                                display: block;
+
+                                label {
+                                    width: 100%;
+                                    margin: 0px 0px;
+                                    line-height: 50px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+
+                                    .div {
+                                        margin: 0px 0px;
+                                        width: 90%;
+                                        border-radius: 15px;
+                                        border: 1px solid #DDE3EB;
+                                        background: #FFF;
+
+                                        input {
+                                            background-color: #FFF;
+                                            border-radius: 15px 5px 5px 15px;
+                                            padding: 15px 15px;
+                                            border: none;
+                                            width: 94%;
+                                            outline: 0;
+                                            color: #737B98;
+                                            font-size: 18px;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            line-height: 22px;
+                                            /* 122.222% */
+                                        }
+                                    }
+                                }
+
+                                .online_offline_p {
+                                    margin-top: 10px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .online_offline {
+                                    width: 90%;
+                                    display: flex;
+                                    justify-content: space-between;
+
+                                    .online,
+                                    .offline {
+                                        width: 47%;
+                                        border-radius: 15px;
+                                        background: #FFF;
+                                        padding: 10px 15px;
+                                        color: #737B98;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+
+                                        /* 122.222% */
+                                        &_span1 {
+                                            margin-right: 10px;
+                                            position: absolute;
+                                            right: 0%;
+                                            // margin: auto;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+
+                        .arendtwo_main_botton_right {
+                            width: 100%;
+
+                            .form2 {
+                                width: 100%;
+                                display: block;
+
+                                label {
+                                    width: 100%;
+                                    margin: 0px 0px;
+                                    line-height: 50px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+
+                                    .div {
+                                        margin: 0px 0px;
+                                        width: 90%;
+                                        border-radius: 15px;
+                                        border: 1px solid #DDE3EB;
+                                        background: #FFF;
+
+                                        input {
+                                            background-color: #FFF;
+                                            border-radius: 15px 5px 5px 15px;
+                                            padding: 15px 15px;
+                                            border: none;
+                                            width: 94%;
+                                            outline: 0;
+                                            color: #737B98;
+                                            font-size: 18px;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            line-height: 22px;
+                                            /* 122.222% */
+                                        }
+                                    }
+                                }
+
+                                .online_offline_p {
+                                    margin-top: 0px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .online_offline {
+                                    width: 90%;
+                                    display: flex;
+                                    justify-content: space-between;
+                                    margin-bottom: 17px;
+
+                                    .online,
+                                    .offline {
+                                        width: 47%;
+                                        border-radius: 15px;
+                                        background: #FFF;
+                                        padding: 15px 15px;
+                                        color: #14233D;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 122.222% */
+
+                                    }
+                                }
+                            }
+
+                            .arendtwo_main_botton_right_info {
+                                padding: 15px 42px 0px 15px;
+                                border-radius: 15px;
+                                border: 1px solid #DDE3EB;
+
+                                .arendtwo_main_botton_right_info_p {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_botton_right_info_p1 {
+                                    color: #14233D;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 140%;
+                                    /* 22.4px */
+                                }
+                            }
+                        }
+                    }
+
+                    .bron1 {
+                        text-align: center;
+
+                        .bron {
+                            margin-left: auto;
+                            margin-top: 30px;
+                            color: #FFF;
+                            text-align: center;
+                            font-feature-settings: 'clig' off, 'liga' off;
+                            font-family: Montserrat;
+                            font-size: 20px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: 22px;
+                            /* 110% */
+                            border-radius: 10px;
+                            background: var(--297-fff, #297FFF);
+                            padding: 10px 20px;
+                            border: none;
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:430px) {
+    .arentwo {
+        width: 100%;
+
+        .container {
+            max-width: 1240px;
+            margin: auto;
+            width: 90%;
+
+            .arendtwo_main {
+                .arendtwo_main_up {
+                    margin: 50px 0px 0px 0px;
+                    padding: 20px 5% 80px 5%;
+                    background: #F2F4F7;
+                    border-radius: 30px;
+
+                    .arendtwo_main_up_h1 {
+                        text-align: start;
+                        color: #14233D;
+                        font-family: Montserrat;
+                        font-size: 32px;
+                        font-style: normal;
+                        font-weight: 600;
+                        line-height: 100%;
+                        /* 32px */
+                    }
+
+                    .arendtwo_main_up_data {
+                        margin-top: 25px;
+                        width: 100%;
+                        display: flex;
+                        flex-wrap: wrap;
+                        justify-content: space-between;
+
+                        .arendtwo_main_up_data_type {
+                            width: 100%;
+                        }
+                    }
+
+                    .arendtwo_main_up_second {
+                        margin-top: 20px;
+                        width: 100%;
+                        display: flex;
+                        justify-content: end;
+
+                        .arendtwo_main_up_second_inf {
+                            width: 90%;
+                            display: flex;
+                            justify-content: space-between;
+
+                            .arendtwo_main_up_second_inf_name {
+                                width: 100%;
+
+                                .arendtwo_main_up_second_inf_name_p {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+                            }
+
+                            .arendtwo_main_up_second_inf_ost {
+                                display: none;
+                                justify-content: space-between;
+                                width: 20%;
+
+                                .arendtwo_main_up_second_inf_ost_left {
+                                    display: none;
+                                    justify-content: space-between;
+                                    width: 60%;
+
+                                    .arendtwo_main_up_second_inf_ost_left_p {
+                                        color: #ABB1C5;
+                                        text-align: center;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 16px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 137.5% */
+                                    }
+                                }
+
+                                .arendtwo_main_up_second_inf_ost_right {
+                                    width: 20%;
+
+                                    .arendtwo_main_up_second_inf_ost_right_p {
+                                        color: #ABB1C5;
+                                        text-align: right;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 16px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 137.5% */
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .arendtwo_main_up_second_products {
+                        width: 100%;
+
+                        .arendtwo_main_up_second_product {
+                            display: flex;
+                            align-items: flex-start;
+                            width: 100%;
+
+                            .arendtwo_main_up_second_product_img {
+                                width: 20%;
+                            }
+
+                            .arendtwo_main_up_second_product_ninty {
+                                display: block;
+                                justify-content: space-between;
+                                // align-items: center;
+                                width: 80%;
+
+                                .arendtwo_main_up_second_product_ninty_first {
+                                    width: 100%;
+
+                                    .arendtwo_main_up_second_product_ninty_first_p {
+                                        width: 100%;
+                                        color: #14233D;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 16px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 137.5% */
+                                    }
+                                }
+
+                                .arendtwo_main_up_second_product_ninty_first_trio {
+                                    display: none;
+
+                                }
+
+                                .arendtwo_main_up_second_product_ninty_last {
+                                    width: 100%;
+                                    display: flex;
+                                    justify-content: space-between;
+                                    color: var(--297-fff, #297FFF);
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 18px;
+                                    font-style: normal;
+                                    font-weight: 700;
+                                    line-height: 22px;
+
+                                    /* 122.222% */
+                                    .arendtwo_main_up_second_inf_ost_right_ps {
+                                        display: block;
+                                        color: #ABB1C5;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 14px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 157.143% */
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                    .arendtwo_main_up_close {
+                        margin-top: 20px;
+                        width: 100%;
+                        display: block;
+                        justify-content: space-between;
+                        // align-items: center;
+
+                        .arendtwo_main_up_close_left {
+                            width: 50%;
+
+                            .arendtwo_main_up_close_left_rel {
+                                position: relative;
+
+                                .arendtwo_main_up_close_left_rel_span1 {
+                                    position: absolute;
+                                    top: 80px;
+                                    left: 0px;
+                                }
+
+                                .arendtwo_main_up_close_left_rel_span2 {
+                                    display: none;
+                                }
+
+                                .arendtwo_main_up_close_left_rel_p {
+                                    position: absolute;
+                                    top: 84px;
+                                    left: 70px;
+                                    color: var(--297-fff, #297FFF);
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 14px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 110%;
+                                    text-decoration: none;
+                                    /* 17.6px */
+                                }
+                            }
+                        }
+
+                        .arendtwo_main_up_close_right {
+                            margin-left: 0%;
+                            width: 100%;
+
+                            .arendtwo_main_up_close_right_up {
+                                display: flex;
+                                justify-content: space-between;
+
+                                .arendtwo_main_up_close_right_up_left {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_up_close_right_up_right {
+                                    color: #14233D;
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 20px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 110% */
+                                }
+                            }
+
+                            .arendtwo_main_up_close_right_botton {
+                                display: flex;
+                                justify-content: space-between;
+
+                                .arendtwo_main_up_close_right_botton_left {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_up_close_right_botton_right {
+                                    color: var(--297-fff, #297FFF);
+                                    text-align: right;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 20px;
+                                    font-style: normal;
+                                    font-weight: 700;
+                                    line-height: 22px;
+                                    /* 110% */
+                                }
+                            }
+                        }
+                    }
+                }
+
+                .center {
+                    margin-left: 10%;
+                }
+
+                .arendtwo_main_botton {
+                    width: 100%;
+                    margin: 0px 0px 50px 0px;
+                    padding: 20px 5% 40px 5%;
+                    background: #F2F4F7;
+                    border-radius: 30px;
+
+                    .arendtwo_main_botton1 {
+                        display: block;
+
+                        .arendtwo_main_botton_left {
+                            width: 100%;
+
+                            .form2 {
+                                width: 100%;
+                                display: block;
+
+                                label {
+                                    width: 100%;
+                                    margin: 0px 0px;
+                                    line-height: 50px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+
+                                    .div {
+                                        margin: 0px 0px;
+                                        width: 90%;
+                                        border-radius: 15px;
+                                        border: 1px solid #DDE3EB;
+                                        background: #FFF;
+
+                                        input {
+                                            background-color: #FFF;
+                                            border-radius: 15px 5px 5px 15px;
+                                            padding: 15px 15px;
+                                            border: none;
+                                            width: 94%;
+                                            outline: 0;
+                                            color: #737B98;
+                                            font-size: 18px;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            line-height: 22px;
+                                            /* 122.222% */
+                                        }
+                                    }
+                                }
+
+                                .online_offline_p {
+                                    margin-top: 10px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .online_offline {
+                                    width: 90%;
+                                    display: block;
+                                    justify-content: space-between;
+
+                                    .online,
+                                    .offline {
+                                        width: 100%;
+                                        margin-bottom: 15px;
+                                        border-radius: 15px;
+                                        background: #FFF;
+                                        padding: 10px 15px;
+                                        color: #737B98;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+
+                                        /* 122.222% */
+                                        &_span1 {
+                                            margin-right: 10px;
+                                            position: absolute;
+                                            right: 0%;
+                                            // margin: auto;
+                                        }
+                                    }
+                                }
+                            }
+                        }
+
+                        .arendtwo_main_botton_right {
+                            width: 100%;
+
+                            .form2 {
+                                width: 100%;
+                                display: block;
+
+                                label {
+                                    width: 100%;
+                                    margin: 0px 0px;
+                                    line-height: 50px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+
+                                    .div {
+                                        margin: 0px 0px;
+                                        width: 90%;
+                                        border-radius: 15px;
+                                        border: 1px solid #DDE3EB;
+                                        background: #FFF;
+
+                                        input {
+                                            background-color: #FFF;
+                                            border-radius: 15px 5px 5px 15px;
+                                            padding: 15px 15px;
+                                            border: none;
+                                            width: 94%;
+                                            outline: 0;
+                                            color: #737B98;
+                                            font-size: 18px;
+                                            font-style: normal;
+                                            font-weight: 500;
+                                            line-height: 22px;
+                                            /* 122.222% */
+                                        }
+                                    }
+                                }
+
+                                .online_offline_p {
+                                    margin-top: 0px;
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .online_offline {
+                                    width: 90%;
+                                    display: block;
+                                    justify-content: space-between;
+                                    margin-bottom: 17px;
+
+                                    .online,
+                                    .offline {
+                                        margin-bottom: 15px;
+                                        width: 100%;
+                                        border-radius: 15px;
+                                        background: #FFF;
+                                        padding: 15px 15px;
+                                        color: #14233D;
+                                        font-feature-settings: 'clig' off, 'liga' off;
+                                        font-family: Montserrat;
+                                        font-size: 18px;
+                                        font-style: normal;
+                                        font-weight: 500;
+                                        line-height: 22px;
+                                        /* 122.222% */
+
+                                    }
+                                }
+                            }
+
+                            .arendtwo_main_botton_right_info {
+                                padding: 15px 42px 0px 15px;
+                                border-radius: 15px;
+                                border: 1px solid #DDE3EB;
+
+                                .arendtwo_main_botton_right_info_p {
+                                    color: #ABB1C5;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 22px;
+                                    /* 137.5% */
+                                }
+
+                                .arendtwo_main_botton_right_info_p1 {
+                                    color: #14233D;
+                                    font-feature-settings: 'clig' off, 'liga' off;
+                                    font-family: Montserrat;
+                                    font-size: 16px;
+                                    font-style: normal;
+                                    font-weight: 500;
+                                    line-height: 140%;
+                                    /* 22.4px */
+                                }
+                            }
+                        }
+                    }
+
+                    .bron1 {
+                        text-align: center;
+
+                        .bron {
+                            margin-left: auto;
+                            margin-top: 30px;
+                            color: #FFF;
+                            text-align: center;
+                            font-feature-settings: 'clig' off, 'liga' off;
+                            font-family: Montserrat;
+                            font-size: 20px;
+                            font-style: normal;
+                            font-weight: 700;
+                            line-height: 22px;
+                            /* 110% */
+                            border-radius: 10px;
+                            background: var(--297-fff, #297FFF);
+                            padding: 10px 20px;
+                            border: none;
+
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

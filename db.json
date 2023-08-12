@@ -1,0 +1,151 @@
+{
+  "zai": [
+    {
+      "name": "Султанов Азем",
+      "number": "+996779582225",
+      "adres": "weferbh",
+      "vadres": "dfgsdgdnghdhm",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "img": "https://elementalcycle.com/wp-content/uploads/2016/04/064630-1-full.png",
+      "matarial": "Алюминий",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "2",
+      "img": "https://www.sefiles.net/images/library/zoom/norco-indie-4-281919-11.png",
+      "matarial": "Карбон ",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "3",
+      "img": "https://i.pinimg.com/originals/bc/5c/ab/bc5cab994a6ee171abae950b51413b9f.png",
+      "matarial": "Сталь",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "4",
+      "img": "https://www.sefiles.net/images/library/zoom/norco-range-c3-313874-1.png",
+      "matarial": "Титан  ",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    }
+  ],
+  "cards": [
+    {
+      "id": "1",
+      "img": "https://elementalcycle.com/wp-content/uploads/2016/04/064630-1-full.png",
+      "matarial": "Алюминий",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "2",
+      "img": "https://www.sefiles.net/images/library/zoom/norco-indie-4-281919-11.png",
+      "matarial": "Карбон ",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "3",
+      "img": "https://i.pinimg.com/originals/bc/5c/ab/bc5cab994a6ee171abae950b51413b9f.png",
+      "matarial": "Сталь",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "4",
+      "img": "https://www.sefiles.net/images/library/zoom/norco-range-c3-313874-1.png ",
+      "matarial": "Титан  ",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "5",
+      "img": "https://elementalcycle.com/wp-content/uploads/2016/04/064630-1-full.png",
+      "matarial": "Алюминий",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "6",
+      "img": "https://www.sefiles.net/images/library/zoom/norco-indie-4-281919-11.png",
+      "matarial": "Карбон ",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "7",
+      "img": "https://i.pinimg.com/originals/bc/5c/ab/bc5cab994a6ee171abae950b51413b9f.png",
+      "matarial": "Сталь",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    },
+    {
+      "id": "8",
+      "img": "https://www.sefiles.net/images/library/zoom/norco-range-c3-313874-1.png ",
+      "matarial": "Титан  ",
+      "price": "90",
+      "info": "Легкие, надежные и легко управляются. Возможны вибрации из-за неровностей дороги.",
+      "type": "Городской велосипед",
+      "name": "Schwinn",
+      "size": "20”"
+    }
+  ],
+  "questions": [
+    {
+      "name": "efgerrwfwr",
+      "number": "+996779582225",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "email": "ajoazem@gmail.com",
+      "password": "$2a$10$Yx/3IKm5RIgARIcm5ti8uOYahX2BKKQ/hc27xEbTif443NI.RHrLW",
+      "name": "Султанов Азем",
+      "number": "+996779582225",
+      "id": 1
+    }
+  ]
+}

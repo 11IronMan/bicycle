@@ -1,0 +1,290 @@
+.about {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+
+    .about_1 {
+        width: 1240px;
+        border-radius: 30px;
+        background: #F2F4F7;
+        margin: 40px 5%;
+
+        .container {
+            max-width: 1240px;
+            margin: auto;
+            width: 95%;
+
+            .about_first {
+                width: 100%;
+                padding-bottom: 30px;
+                .about_h1 {
+                    color: #14233D;
+                    font-size: 48px;
+                    font-weight: 600;
+                    line-height: 57.6px;
+                    margin: 45px 0px;
+                }
+
+                .about_first_inf {
+                    width: 100%;
+                    display: flex;
+                    column-gap: 50px;
+                    justify-content: space-between;
+
+                    .about_first_inf_text {
+                        .about_first_inf_text_p {
+                            color: #14233D;
+                            font-size: 18px;
+                            font-weight: 500;
+                            line-height: 25.2px;
+                        }
+                    }
+                    .about_first_inf_img{
+                        .about_first_inf_img_2{
+                            display: none;
+                        }
+                        .about_first_inf_img_3{
+                            display: none;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media screen and (max-width:1200px) {
+    .about {
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    
+        .about_1 {
+            width: 1240px;
+            border-radius: 30px;
+            background: #F2F4F7;
+            margin: 40px 5%;
+    
+            .container {
+                max-width: 1240px;
+                margin: auto;
+                width: 96%;
+    
+                .about_first {
+                    width: 100%;
+                    .about_h1 {
+                        color: #14233D;
+                        font-size: 48px;
+                        font-weight: 600;
+                        line-height: 57.6px;
+                        margin: 35px 0px;
+                    }
+    
+                    .about_first_inf {
+                        width: 100%;
+                        display: flex;
+                        column-gap: 50px;
+                        justify-content: space-between;
+    
+                        .about_first_inf_text {
+                            .about_first_inf_text_p {
+                                color: #14233D;
+                                font-size: 16px;
+                                font-weight: 500;
+                                line-height: 22.4px;
+                            }
+                        }
+                        .about_first_inf_img{
+                            .about_first_inf_img_1{
+                                display: none;
+                            }
+                            .about_first_inf_img_3{
+                                display: none;
+                            }
+                            .about_first_inf_img_2{
+                                display: block;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:768px) {
+    .about {
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    
+        .about_1 {
+            width: 1240px;
+            border-radius: 30px;
+            background: #F2F4F7;
+            margin: 40px 5%;
+    
+            .container {
+                max-width: 1240px;
+                margin: auto;
+                width: 96%;
+    
+                .about_first {
+                    width: 100%;
+                    .about_h1 {
+                        color: #14233D;
+                        font-size: 48px;
+                        font-weight: 600;
+                        line-height: 57.6px;
+                        margin: 35px 0px;
+                    }
+    
+                    .about_first_inf {
+                        width: 100%;
+                        display: block;
+                        column-gap: 50px;
+                        justify-content: space-between;
+    
+                        .about_first_inf_text {
+                            .about_first_inf_text_p {
+                                color: #14233D;
+                                font-size: 16px;
+                                font-weight: 500;
+                                line-height: 22.4px;
+                            }
+                        }
+                        .about_first_inf_img{
+                            .about_first_inf_img_1{
+                                display:block;
+                            }
+                            .about_first_inf_img_2{
+                                display: none;
+                            }
+                            .about_first_inf_img_3{
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:630px) {
+    .about {
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    
+        .about_1 {
+            width: 1240px;
+            border-radius: 30px;
+            background: #F2F4F7;
+            margin: 40px 5%;
+    
+            .container {
+                max-width: 1240px;
+                margin: auto;
+                width: 96%;
+    
+                .about_first {
+                    width: 100%;
+                    .about_h1 {
+                        color: #14233D;
+                        font-size: 48px;
+                        font-weight: 600;
+                        line-height: 57.6px;
+                        margin: 35px 0px;
+                    }
+    
+                    .about_first_inf {
+                        width: 100%;
+                        display: block;
+                        column-gap: 50px;
+                        justify-content: space-between;
+    
+                        .about_first_inf_text {
+                            .about_first_inf_text_p {
+                                color: #14233D;
+                                font-size: 16px;
+                                font-weight: 500;
+                                line-height: 22.4px;
+                            }
+                        }
+                        .about_first_inf_img{
+                            .about_first_inf_img_1{
+                                display: none;
+                            }
+                            .about_first_inf_img_3{
+                                display: none;
+                            }
+                            .about_first_inf_img_2{
+                                display: block  ;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (max-width:400px) {
+    .about {
+        width: 100vw;
+        display: flex;
+        justify-content: center;
+    
+        .about_1 {
+            width: 1240px;
+            border-radius: 30px;
+            background: #F2F4F7;
+            margin: 40px 5%;
+    
+            .container {
+                max-width: 1240px;
+                margin: auto;
+                width: 96%;
+    
+                .about_first {
+                    width: 100%;
+                    .about_h1 {
+                        color: #14233D;
+                        font-size: 48px;
+                        font-weight: 600;
+                        line-height: 57.6px;
+                        margin: 35px 0px;
+                    }
+    
+                    .about_first_inf {
+                        width: 100%;
+                        display: block;
+                        column-gap: 50px;
+                        justify-content: space-between;
+    
+                        .about_first_inf_text {
+                            .about_first_inf_text_p {
+                                color: #14233D;
+                                font-size: 16px;
+                                font-weight: 500;
+                                line-height: 22.4px;
+                            }
+                        }
+                        .about_first_inf_img{
+                            .about_first_inf_img_1{
+                                display: none;
+                            }
+                            .about_first_inf_img_3{
+                                display: block;
+                                width: 235px;
+                            }
+                            .about_first_inf_img_2{
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
